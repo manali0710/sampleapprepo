@@ -9,7 +9,7 @@ public class BootClass {
 	}
 
 	public static void show() {
-		int[] arr= {1,2,3,4,4,5};
+		int[] arr= {12,56,34,89};
 		int sum=0;
 		for(int n:arr) {
 			sum+=n;
